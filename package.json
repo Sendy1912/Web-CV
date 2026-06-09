@@ -2,7 +2,6 @@
   "name": "website-cv-sendi",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sendy1912.github.io/Web-CV",
   "type": "module",
   "scripts": {
     "dev": "vite",
